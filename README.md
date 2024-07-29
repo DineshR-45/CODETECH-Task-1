@@ -1,8 +1,8 @@
-**Name:** DINESH R
-**Company:** CODETECH IT SOLUTIONS 
-**ID:** CT08DS53O3
-**Domain:** CYBER SECURITY & ETHICAL HACKING
-**Duration:** July 20th,2024 - August 20th,2024
+**Name:** DINESH R    
+**Company:** CODETECH IT SOLUTIONS      
+**ID:** CT08DS5303                                           
+**Domain:** CYBER SECURITY & ETHICAL HACKING                           
+**Duration:** July 20th,2024 - August 20th,2024                                 
 
 
 
@@ -22,7 +22,10 @@ The Password Strength Checker is a tool designed to evaluate the strength of pas
 
 ## Technologies Used
 
-- **Programming Languages:** HTML, CSS & Java Script
+ **Programming Languages:**
+   HTML,
+   CSS &
+   Java Script
 
 ## Usage
 

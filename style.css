@@ -1,0 +1,93 @@
+body{
+   background-color:rgb(185,204,224);
+   
+}
+
+
+h1{
+   
+   background-color: white;
+   color:black;
+   height:60px;
+   width: 600px;
+   padding-top: 25px;
+   margin-top: 40px;
+   border-color:rgb(118, 138, 158);
+   border-style: solid;
+   border-radius: 10px;
+}
+h3{
+   color:white;
+   background-color: black;
+   inline-size: 400px;
+   border-radius: 10px;
+   
+}
+
+
+
+.one{
+   border-style: hidden;
+   border-color: rgb(166, 166, 215);
+   background-color: rgb(220, 223, 225);
+   border-radius: 10px;
+   margin-top: 100px;
+   font-size:larger;
+   padding: 10px;
+   font-size: 16px;
+   width: 250px;
+}
+
+button{
+   width: 40px;
+   height: 40px;
+   background-color:rgb(220, 223, 225);
+   color: rgb(211, 187, 218);
+   border: 1px ;
+   border-radius: 10px;
+   padding: 10px;
+}
+
+.strength-meter {
+   margin-top: 10px;
+   font-size: 16px;
+   color: black;
+   padding: 10px;
+}
+
+
+.two{
+   width: 100px;
+   height: 30px;
+   background-color:rgb(211, 187, 215);
+   color: black;
+   border-radius: 10px;
+   padding: 10px;
+   margin-top: 20px;
+
+}
+
+span{
+   border-radius: 100px;
+   color:white;
+   padding: 10px;
+   margin-top: 100px;
+   background-color:rgb(106, 162, 205);
+
+  
+}
+
+li{
+
+   border-radius: 100px;
+   color:white;
+   padding: 10px;
+   margin-top: 10px;
+   background-color:rgb(143, 188, 223);
+   inline-size: 300px;
+
+}
+
+p{
+   padding: 5px;
+}

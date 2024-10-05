@@ -1,11 +1,4 @@
-**Name:** DINESH R    
-**Company:** CODETECH IT SOLUTIONS      
-**ID:** CT08DS5303                                           
-**Domain:** CYBER SECURITY & ETHICAL HACKING                           
-**Duration:** July 20th,2024 - August 20th,2024                                 
-
-
-
+                               
 # Password Strength Checker
 
 ## Overview
